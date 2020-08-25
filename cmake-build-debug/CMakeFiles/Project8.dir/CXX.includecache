@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project8/ExpressionTree.h
+cstdint
+-
+vector
+-
+string
+-
+
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project8/Parse.h
+stdint.h
+-
+
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project8/dataBase.h
+vector
+-
+string
+-
+cstdint
+-
+
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project8/main.cpp
+Parse.h
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project8/Parse.h
+cstdint
+-
+iostream
+-
+utilityFunctions.h
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project8/utilityFunctions.h
+string
+-
+vector
+-
+ExpressionTree.h
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project8/ExpressionTree.h
+dataBase.h
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project8/dataBase.h
+
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project8/utilityFunctions.h
+cstdint
+-
+vector
+-
+string
+-
+dataBase.h
+/cygdrive/c/Users/kevin/UT Austin/1st Year Classes/Software I (C,C++)/Project8/dataBase.h
+

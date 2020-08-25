@@ -1,0 +1,12 @@
+text Hello
+text \n
+text "Hello World"
+text \n
+text "Hello"
+text \n
+var x 10
+var y 10 //hi
+output + && 6 12 10
+set y 22
+output ! y
+
